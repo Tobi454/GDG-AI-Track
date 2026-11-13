@@ -1,0 +1,37 @@
+[
+  {
+    "prompt": "Summarise in one sentence: Meal prepping on Sunday afternoons saves money on weekday takeout and reduces the stress of deciding what to cook after a long day at work.",
+    "response": "Sunday meal prepping saves money on takeout and reduces weekday post-work stress.",
+    "model": "gemini-3.5-flash",
+    "prompt_tokens": 33,
+    "output_tokens": 15
+  },
+  {
+    "prompt": "Classify this text message as exactly one of [urgent, spam, casual]: 'Hey, are we still on for grabbing coffee at 4pm today?'",
+    "response": "casual",
+    "model": "gemini-3.5-flash",
+    "prompt_tokens": 33,
+    "output_tokens": 1
+  },
+  {
+    "prompt": "Extract the item, store, and price from this receipt note as key-value pairs: 'Bought a wireless mouse from TechHub yesterday for $25.'",
+    "response": "Here are the extracted key-value pairs:\n\n* **Item:** wireless mouse\n* **Store:** TechHub\n* **Price:** $25",
+    "model": "gemini-3.5-flash",
+    "prompt_tokens": 33,
+    "output_tokens": 31
+  },
+  {
+    "prompt": "Rewrite this blunt text to a landlord in a polite, professional tone: 'The kitchen sink is leaking again, you need to send someone to fix it today.'",
+    "response": "Here are a few ways to rewrite the message, depending on how you are sending it (text message vs. email) and how formal you want to be. \n\n**Option 1: Friendly yet firm (Best for a text message)**\n> \"Hi [Landlord Name], I\u2019m reaching out to let you know that the kitchen sink has started leaking again. To prevent any potential water damage, would it be possible to have someone come by to fix it today? Please let me know what time might work. Thanks!\"\n\n**Option 2: Professional and direct (Best for email)**\n> \"Dear [Landlord Name], \n> \n> I am writing to inform you that the issue with the kitchen sink leaking has recurred. Given the potential for water damage, I would greatly appreciate it if you could send a technician to inspect and repair it today. \n> \n> Please let me know as soon as possible when someone will be available to come by. Thank you for your prompt assistance with this matter.\n> \n> Best regards,  \n> [Your Name]\"\n\n**Option 3: Short and polite (Best if you already have a good rapport)**\n> \"Hi [Landlord Name], just a heads-up that the kitchen sink is leaking again. Could you please send someone over today to take a look at it? Let me know what time works best for access. Thank you!\"\n\n**Why these work:**\n* **Framing:** Mentioning \"potential water damage\" reminds the landlord that fixing it today protects *their* property, making them much more likely to act quickly without feeling commanded.\n* **Tone shift:** Changing \"you need to send someone\" to \"would it be possible\" or \"I would greatly appreciate\" maintains professionalism while keeping the urgency.",
+    "model": "gemini-3.5-flash",
+    "prompt_tokens": 33,
+    "output_tokens": 375
+  },
+  {
+    "prompt": "How many tablespoons are in a standard cup? Reply with the number only.",
+    "response": "16",
+    "model": "gemini-3.5-flash",
+    "prompt_tokens": 16,
+    "output_tokens": 2
+  }
+]
