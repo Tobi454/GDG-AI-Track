@@ -1,0 +1,142 @@
+[
+  {
+    "notice": "HEY GUYS!!! GDG AI workshop this Thursday 26th Nov @ Hall B, 4pm sharp. Bring laptops.\nRegister at the link in bio. No registration = no entry! pls share",
+    "raw": "{\"title\": \"GDG AI workshop\", \"type\": \"event\", \"date\": \"2026-11-26\", \"time\": \"16:00\", \"venue\": \"Hall B\", \"registration_required\": true}",
+    "data": {
+      "title": "GDG AI workshop",
+      "type": "event",
+      "date": "2026-11-26",
+      "time": "16:00",
+      "venue": "Hall B",
+      "registration_required": true
+    },
+    "problems": [],
+    "valid": true
+  },
+  {
+    "notice": "NOTICE: Deadline for submission of course registration forms is Friday 4th December 2026, 5:00 PM. Submit at the Registry. Late submissions attract a fine.",
+    "raw": "{\"title\": \"Course registration forms submission\", \"type\": \"deadline\", \"date\": \"2026-12-04\", \"time\": \"17:00\", \"venue\": \"Registry\", \"registration_required\": false}",
+    "data": {
+      "title": "Course registration forms submission",
+      "type": "deadline",
+      "date": "2026-12-04",
+      "time": "17:00",
+      "venue": "Registry",
+      "registration_required": false
+    },
+    "problems": [],
+    "valid": true
+  },
+  {
+    "notice": "Career Talk: 'Breaking into Tech' with a guest speaker from a Lagos fintech. Auditorium, 2nd Dec, 2pm. Free entry, no need to register.",
+    "raw": "{\"title\": \"Career Talk: Breaking into Tech\", \"type\": \"event\", \"date\": \"2026-12-02\", \"time\": \"14:00\", \"venue\": \"Auditorium\", \"registration_required\": false}",
+    "data": {
+      "title": "Career Talk: Breaking into Tech",
+      "type": "event",
+      "date": "2026-12-02",
+      "time": "14:00",
+      "venue": "Auditorium",
+      "registration_required": false
+    },
+    "problems": [],
+    "valid": true
+  },
+  {
+    "notice": "Library will be closed Friday 27th Nov for maintenance. Reopens Monday.",
+    "raw": "{\"title\": \"Library closure\", \"type\": \"announcement\", \"date\": \"2026-11-27\", \"time\": null, \"venue\": \"Library\", \"registration_required\": false}",
+    "data": {
+      "title": "Library closure",
+      "type": "announcement",
+      "date": "2026-11-27",
+      "time": null,
+      "venue": "Library",
+      "registration_required": false
+    },
+    "problems": [],
+    "valid": true
+  },
+  {
+    "notice": "ATTN 300L CS students: Test 2 for CSC 301 holds this Tuesday, 24th Nov, 10am, LT 3. Bring your ID card.",
+    "raw": "{\"title\": \"CSC 301 Test 2\", \"type\": \"event\", \"date\": \"2026-11-24\", \"time\": \"10:00\", \"venue\": \"LT 3\", \"registration_required\": false}",
+    "data": {
+      "title": "CSC 301 Test 2",
+      "type": "event",
+      "date": "2026-11-24",
+      "time": "10:00",
+      "venue": "LT 3",
+      "registration_required": false
+    },
+    "problems": [],
+    "valid": true
+  },
+  {
+    "notice": "Hackathon registration closes Sunday 29 Nov at midnight!!! Teams of 3-4. Sign up at the Tech Hub desk or online. The hackathon itself is Sat 5 Dec, Lab 2, 9am.",
+    "raw": "{\"title\": \"Hackathon registration\", \"type\": \"deadline\", \"date\": \"2026-11-29\", \"time\": \"00:00\", \"venue\": \"Tech Hub desk or online\", \"registration_required\": true}",
+    "data": {
+      "title": "Hackathon registration",
+      "type": "deadline",
+      "date": "2026-11-29",
+      "time": "00:00",
+      "venue": "Tech Hub desk or online",
+      "registration_required": true
+    },
+    "problems": [],
+    "valid": true
+  },
+  {
+    "notice": "Dear students, the Dean's lecture has been moved from Hall A to Hall C. Same time.",
+    "raw": "{\"title\": \"Dean's lecture venue change\", \"type\": \"announcement\", \"date\": null, \"time\": null, \"venue\": \"Hall C\", \"registration_required\": false}",
+    "data": {
+      "title": "Dean's lecture venue change",
+      "type": "announcement",
+      "date": null,
+      "time": null,
+      "venue": "Hall C",
+      "registration_required": false
+    },
+    "problems": [],
+    "valid": true
+  },
+  {
+    "notice": "Free pizza at the Student Centre tmrw!! 1pm till it finishes lol",
+    "raw": "{\"title\": \"Free pizza\", \"type\": \"event\", \"date\": \"2026-11-23\", \"time\": \"13:00\", \"venue\": \"Student Centre\", \"registration_required\": false}",
+    "data": {
+      "title": "Free pizza",
+      "type": "event",
+      "date": "2026-11-23",
+      "time": "13:00",
+      "venue": "Student Centre",
+      "registration_required": false
+    },
+    "problems": [],
+    "valid": true
+  },
+  {
+    "notice": "Scholarship application opens 1 Dec. Closes 15 January. Apply online with your CGPA and a recommendation letter.",
+    "raw": "{\"title\": \"Scholarship application deadline\", \"type\": \"deadline\", \"date\": \"2027-01-15\", \"time\": null, \"venue\": \"online\", \"registration_required\": true}",
+    "data": {
+      "title": "Scholarship application deadline",
+      "type": "deadline",
+      "date": "2027-01-15",
+      "time": null,
+      "venue": "online",
+      "registration_required": true
+    },
+    "problems": [],
+    "valid": true
+  },
+  {
+    "notice": "WORKSHOP: Intro to Git - Saturday 28th Nov - 10:00am to 12:00pm - Lab 1 - registration compulsory via the form link",
+    "raw": "{\"title\": \"Intro to Git workshop\", \"type\": \"event\", \"date\": \"2026-11-28\", \"time\": \"10:00\", \"venue\": \"Lab 1\", \"registration_required\": true}",
+    "data": {
+      "title": "Intro to Git workshop",
+      "type": "event",
+      "date": "2026-11-28",
+      "time": "10:00",
+      "venue": "Lab 1",
+      "registration_required": true
+    },
+    "problems": [],
+    "valid": true
+  }
+]
